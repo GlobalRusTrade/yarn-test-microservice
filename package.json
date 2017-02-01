@@ -5,7 +5,7 @@
   "scripts": {
   },
   "dependencies": {
-    "yarn-test-lib": "git+ssh://git@github.com/fourslashw/yarn-test-lib.git#release-a"
+    "yarn-test-lib": "git+ssh://git@github.com/fourslashw/yarn-test-lib.git#release-a-public"
   },
   "devDependencies": {
   }
